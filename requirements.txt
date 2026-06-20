@@ -1,0 +1,4 @@
+mcap
+mcap-protobuf-support
+Pillow
+tqdm
